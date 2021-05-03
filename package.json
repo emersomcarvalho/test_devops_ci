@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "coverage": "jest --colors --coverage",
-    "start": "nodemon /node server.js",
+    "start": "node server.js",
     "test": "jest"
     
   },
