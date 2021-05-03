@@ -1,5 +1,5 @@
 const calculation = require('../calculation');
-const express = require('../../server');
+
 
 describe('Testando a Soma', () => {
 
