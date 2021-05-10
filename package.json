@@ -7,7 +7,6 @@
     "coverage": "jest --colors --coverage",
     "start": "node server.js",
     "test": "jest"
-    
   },
   "keywords": [],
   "author": "",
