@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1620000121364" clover="3.2.0">
-  <project timestamp="1620000121364" name="All files">
+<coverage generated="1620913572595" clover="3.2.0">
+  <project timestamp="1620913572595" name="All files">
     <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4" elements="12" coveredelements="12" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
-    <file name="index.js" path="/Users/emersomcarvalho/Desktop/Estudo/test_devops/src/index.js">
+    <file name="calculation.js" path="/Users/emersomsantos/Desktop/Estudo/test_devops/test_devops_ci/src/calculation.js">
       <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
