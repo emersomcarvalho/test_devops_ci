@@ -5,7 +5,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-    res.json('Rota padrão');
+    res.json('Rota padrão: OK!');
 
 });
 
