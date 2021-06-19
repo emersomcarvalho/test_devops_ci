@@ -12,6 +12,6 @@ script:
 notifications:
   email:
     on_success: never
-    on_failure: aways
+    on_failure: always
 
     
