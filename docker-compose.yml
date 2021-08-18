@@ -1,9 +1,15 @@
 version: "3"
+
 services: 
+
  app_ci:
+ 
   build: .
+
   ports: 
+
     - "3000:3000"
+
   command: npm start
   
 
