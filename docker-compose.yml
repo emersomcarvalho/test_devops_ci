@@ -12,7 +12,7 @@ services:
   volumes:
     - /usr/app
 
-  # command: npm start
+  #command: npm start
   
 
 
