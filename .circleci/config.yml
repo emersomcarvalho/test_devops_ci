@@ -10,7 +10,7 @@ jobs:
           command: npm install 
       - run:
           name: "Test Jest"
-          command: jest
+          command: test
 
 workflows:
   build-tests-deploy:
